@@ -1,0 +1,5 @@
+config.json
+.env
+*.log
+*.pem
+*.key
