@@ -60,16 +60,15 @@ Aqui estão algumas capturas de tela do processo de análise de dados utilizando
 
 ![image](https://github.com/user-attachments/assets/386312d6-95c8-4891-8dcb-52e0d1b073cb)
 
-*Figura 2: Interface do AWS DataBrew mostrando a limpeza e preparação dos dados, incluindo a divisão de colunas, renomeação de colunas, e remoção de caracteres especiais.*
+*Figura 1: Interface do AWS DataBrew mostrando a limpeza e preparação dos dados, incluindo a divisão de colunas, renomeação de colunas, e remoção de caracteres especiais.*
 
 ![image](https://github.com/user-attachments/assets/984148d0-042e-445a-a6b8-ed9330f8df7b)
 
-*Figura 3: Tela de configuração de um job no AWS Glue, demonstrando a aplicação de transformações de esquema e extração de padrões com expressões regulares (Regex Extractor).*
+*Figura 2: Tela de configuração de um job no AWS Glue, demonstrando a aplicação de transformações de esquema e extração de padrões com expressões regulares (Regex Extractor).*
 
 ![image](https://github.com/user-attachments/assets/7fd8b2e9-1a28-41df-8055-247b9ce61c47)
 
-*Figura 4: Visualização no AWS Glue Data Catalog, mostrando as tabelas categorizadas em diferentes camadas de armazenamento (Bronze, Silver, Gold).*
-
+*Figura 3: Visualização no AWS Glue Data Catalog, mostrando as tabelas categorizadas em diferentes camadas de armazenamento (Bronze, Silver, Gold).*
 
 
 ## Estrutura do Projeto
